@@ -1,4 +1,4 @@
-# Title: #### 
+# Title: POSC-3410 Lab 1 #### 
 # Author: Cierra Oliveira
 # Date: 1/13/21
 
@@ -8,7 +8,7 @@
 # Lesson 2 ####
 
 # Let's Try Some Basic Arithmetic ####
-# Sum of 1 and 1
+# Sum of 1 and 1 
 1+1
 # Divide 365 by 12
 365/12
