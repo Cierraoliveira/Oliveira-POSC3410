@@ -10,7 +10,7 @@
 library(shiny)
 library(tidyverse)
 library(ggpubr)
-load("~/GitHub/Oliveira-POSC3410/ResearchProposal/reseachproj/migration_rightattacks_df.Rdata")
+load("~/migration_rightattacks_df.Rdata")
 
 # final_df %>% 
 #   ggplot(aes(x=log(net_mig), y=log(count))) +
